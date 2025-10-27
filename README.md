@@ -59,5 +59,10 @@ disp("Cutoff frequency (fc): " + string(fc));
 disp("Window used: Rectangular");
 
 # OUTPUT
+<img width="428" height="698" alt="image" src="https://github.com/user-attachments/assets/274f58bc-c9ef-48e5-aee9-d87f97b24397" />
+<img width="762" height="598" alt="image" src="https://github.com/user-attachments/assets/223ada08-c04c-4470-8e72-29968734cb47" />
+<img width="758" height="632" alt="image" src="https://github.com/user-attachments/assets/8da9d334-c3bb-42d0-863c-5e9fa7996946" />
+
 
 # RESULT
+Design of low pass FIR digital filter using SCILAB was generated.
