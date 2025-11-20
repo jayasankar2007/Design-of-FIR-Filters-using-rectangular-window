@@ -11,7 +11,7 @@
 
 # PROGRAM 
 // DESIGN OF LOW PASS FIR FILTER USING RECTANGULAR WINDOW
-
+```
 clc;
 clear;
 close;
@@ -57,7 +57,7 @@ disp(h');
 disp("Filter length (N): " + string(N));
 disp("Cutoff frequency (fc): " + string(fc));
 disp("Window used: Rectangular");
-
+```
 # OUTPUT
 <img width="300" height="498" alt="image" src="https://github.com/user-attachments/assets/274f58bc-c9ef-48e5-aee9-d87f97b24397" />
 <img width="362" height="498" alt="image" src="https://github.com/user-attachments/assets/223ada08-c04c-4470-8e72-29968734cb47" />
